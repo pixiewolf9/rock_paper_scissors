@@ -4,7 +4,7 @@ goals of rock paper scissers game</br>
 3.Add grafics.</br>	 
 4.Figure out how to make it and android game and web game(probably flask)</br>	 
 5.Make it in to and android game/web</br>	 
-6.Figure out how to make multi player online</br>	  
+6.Figure out how to make multi player online</br>
 7.Figure  out how to add ads.</br>	 
 8.Add rock paper scissors lizard spock</br>	 
 9.Add leaderboards reset weekly</br>	 
